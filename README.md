@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @fangyinglim
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Python/JS/CSS/HTML
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 fangyinglim/fangyinglim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
