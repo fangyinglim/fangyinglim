@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @fangyinglim
-- 🌱 I’m currently learning Python/JS/CSS/HTML
+Hi, I’m Fang Ying
+I’m currently learning JS/CSS/HTML
 
 
 <!---
