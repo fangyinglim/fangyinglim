@@ -1,4 +1,4 @@
-Hi, I’m Fang Ying
+Hi, I’m Fang Ying! <br>
 I’m currently learning JS/CSS/HTML
 
 
