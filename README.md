@@ -1,5 +1,5 @@
 Hi, I’m Fang Ying! <br>
-I’m currently learning JS/CSS/HTML
+I’m currently learning JS/CSS/HTML, React
 
 
 <!---
